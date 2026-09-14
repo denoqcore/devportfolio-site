@@ -33,15 +33,24 @@
 			"/projects/rent-use/rent-use-13.jpg",
 			"/projects/rent-use/rent-use-14.jpg"
 		],
-		"youtubeUrl": "www",
+		"youtubeUrl": null,
 		"demoUrl": null,
 		"githubUrl": "https://github.com/markwellq/rent-use"
 	},
 	{
-		"slug": "project-two",
+		"slug": "surv-gear",
 		"title": "Surv Gear",
-		"description": "Gear e-commerce",
-		"stack": ["Laravel", "MySQL", "javascript"],
+		"stack": [
+			"PHP",
+			"Alpine.js",
+			"Docker",
+			"Laravel",
+			"MySQL",
+			"Javascript",
+			"Tailwind",
+			"Livewire",
+			"Git"
+		],
 		"cover": "/projects/surv-gear/cover_surv-gear.jpg",
 		"screenshots": [
 			"/projects/surv-gear/cover_surv-gear.jpg",
@@ -51,7 +60,7 @@
 		],
 		"youtubeUrl": null,
 		"demoUrl": null,
-		"githubUrl": "https://github.com/your-username/project-two",
-		"content": "content description"
+		"githubUrl": "https://github.com/denoqcore/surv-gear",
+		"content": ""
 	}
 ]

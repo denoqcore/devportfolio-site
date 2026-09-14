@@ -41,9 +41,9 @@
 			"content": "Rent Use este o platformă full-stack pentru închiriere și rezervare, construită cu Laravel. Utilizatorii pot răsfoi și căuta proprietăți după categorie și locație, pot vedea informații detaliate despre proprietăți, pot adăuga anunțuri la favorite și pot face rezervări. Platforma include, de asemenea, un sistem de abonamente, chat în timp real, un panou de administrare și instrumente pentru gestionarea anunțurilor, rezervărilor și utilizatorilor"
 		},
 
-		"project-two": {
+		"surv-gear": {
 			"description": "Platformă e-commerce pentru echipamente.",
-			"content": "O platformă e-commerce pentru vânzarea echipamentelor pentru supraviețuire și activități în aer liber."
+			"content": "O platformă e-commerce pentru echipamente de camping, supraviețuire și activități în aer liber. Proiectul include autentificarea utilizatorilor, categorii de produse, un coș de cumpărături complet funcțional, navigarea produselor și o simulare a procesului de finalizare a comenzii"
 		}
 	},
 
