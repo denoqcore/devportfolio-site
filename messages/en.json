@@ -38,7 +38,7 @@
 
 		"rent-use": {
 			"description": "Rental and booking platform for finding, renting, and managing listings.",
-			"content": "Rent Use is a full-stack rental and booking platform built with Laravel. Users can browse listings, search by category and location, view detailed property information, add listings to favorites, and make bookings."
+			"content": "Rent Use is a full-stack rental and booking platform built with Laravel. Users can browse and search listings by category and location, view detailed property information, add listings to favorites, and make bookings. The platform also includes a subscription system, real-time chat, an admin dashboard, and tools for managing listings, bookings, and users"
 		},
 
 		"project-two": {

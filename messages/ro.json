@@ -38,7 +38,7 @@
 
 		"rent-use": {
 			"description": "Platformă pentru găsirea, închirierea și rezervarea proprietăților.",
-			"content": "Rent Use este o platformă full-stack pentru închiriere și rezervare, construită cu Laravel. Utilizatorii pot naviga prin anunțuri, pot căuta după categorie și locație, pot vedea informații detaliate, pot adăuga anunțuri la favorite și pot face rezervări."
+			"content": "Rent Use este o platformă full-stack pentru închiriere și rezervare, construită cu Laravel. Utilizatorii pot răsfoi și căuta proprietăți după categorie și locație, pot vedea informații detaliate despre proprietăți, pot adăuga anunțuri la favorite și pot face rezervări. Platforma include, de asemenea, un sistem de abonamente, chat în timp real, un panou de administrare și instrumente pentru gestionarea anunțurilor, rezervărilor și utilizatorilor"
 		},
 
 		"project-two": {
