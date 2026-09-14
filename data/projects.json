@@ -42,8 +42,13 @@
 		"title": "Surv Gear",
 		"description": "Gear e-commerce",
 		"stack": ["Laravel", "MySQL", "javascript"],
-		"cover": "/projects/project-two/cover.jpg",
-		"screenshots": ["/projects/project-two/1.jpg"],
+		"cover": "/projects/surv-gear/cover_surv-gear.jpg",
+		"screenshots": [
+			"/projects/surv-gear/cover_surv-gear.jpg",
+			"/projects/surv-gear/surv-gear-1.jpg",
+			"/projects/surv-gear/surv-gear-2.jpg",
+			"/projects/surv-gear/surv-gear-3.jpg"
+		],
 		"youtubeUrl": null,
 		"demoUrl": null,
 		"githubUrl": "https://github.com/your-username/project-two",
