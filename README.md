@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vercel/next.js/canary/packages/next/next-logo.svg" alt="Next.js" width="100" />
 
 # denoqcore — Portfolio
 
-Terminal/macOS-styled personal portfolio built with Next.js.
+built with Next.js.
 
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
