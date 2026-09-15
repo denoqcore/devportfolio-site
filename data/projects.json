@@ -51,12 +51,41 @@
 			"Livewire",
 			"Git"
 		],
-		"cover": "/projects/surv-gear/cover_surv-gear.jpg",
+		"cover": "/projects/surv-gear/surv-gear-cover-u.jpg",
 		"screenshots": [
-			"/projects/surv-gear/cover_surv-gear.jpg",
-			"/projects/surv-gear/surv-gear-1.jpg",
-			"/projects/surv-gear/surv-gear-2.jpg",
-			"/projects/surv-gear/surv-gear-3.jpg"
+			"/projects/surv-gear/surv-gear-cover-u.jpg",
+			"/projects/surv-gear/surv-gear-1u.jpg",
+			"/projects/surv-gear/surv-gear-2u.jpg",
+			"/projects/surv-gear/surv-gear-3u.jpg"
+		],
+		"youtubeUrl": null,
+		"demoUrl": null,
+		"githubUrl": "https://github.com/denoqcore/surv-gear",
+		"content": ""
+	},
+	{
+		"slug": "early-projects",
+		"title": "Learning Projects",
+		"stack": [
+			"React",
+			"Tailwind",
+			"JavaScript",
+			"CSS",
+			"HTML",
+			"Git",
+			"vscode"
+		],
+		"cover": "/projects/early-projects/early-1.jpg",
+		"screenshots": [
+			"/projects/early-projects/early-1.jpg",
+			"/projects/early-projects/early-2.jpg",
+			"/projects/early-projects/early-3.jpg",
+			"/projects/early-projects/early-4.jpg",
+			"/projects/early-projects/early-5.jpg",
+			"/projects/early-projects/early-6.jpg",
+			"/projects/early-projects/early-7.jpg",
+			"/projects/early-projects/early-8.jpg",
+			"/projects/early-projects/early-9.jpg"
 		],
 		"youtubeUrl": null,
 		"demoUrl": null,
