@@ -44,6 +44,10 @@
 		"surv-gear": {
 			"description": "Platformă e-commerce pentru echipamente.",
 			"content": "O platformă e-commerce pentru echipamente de camping, supraviețuire și activități în aer liber. Proiectul include autentificarea utilizatorilor, categorii de produse, un coș de cumpărături complet funcțional, navigarea produselor și o simulare a procesului de finalizare a comenzii"
+		},
+		"early-projects": {
+			"description": "Colecție de proiecte timpurii de învățare.",
+			"content": "O colecție a primelor mele proiecte realizate în procesul de învățare a dezvoltării web. Sunt aplicații mici și exerciții pe diverse concepte și tehnologii, făcute ca parte a procesului de învățare înainte de a trece la proiecte full-stack mai mari."
 		}
 	},
 

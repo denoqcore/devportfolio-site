@@ -44,6 +44,10 @@
 		"surv-gear": {
 			"description": "Gear e-commerce platform.",
 			"content": "An e-commerce platform for outdoor, survival, and camping gear. The project includes user authentication, product categories, a fully developed shopping cart, product browsing, and a simulated checkout process"
+		},
+		"early-projects": {
+			"description": "Collection of early learning projects.",
+			"content": "A collection of my early projects built while learning web development. These are small apps and exercises covering different concepts and technologies, made as part of the learning process before moving on to larger full-stack builds."
 		}
 	},
 
