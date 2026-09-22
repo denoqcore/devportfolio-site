@@ -20,7 +20,7 @@ const LINKS = [
 
 const DOCS = [
   { key: "diploma", label: "diploma", href: "/diploma", icon: CertificateIcon, external: false },
-  { key: "cv", label: "cv", href: "CV/CV_Beccev_Denis.pdf", icon: FileTextIcon, external: true },
+  { key: "cv", label: "cv", href: "CV/Beccev_Denis_CV.pdf", icon: FileTextIcon, external: true },
 ] as const;
 
 
@@ -67,7 +67,7 @@ export default async function HomePage({
         </p>
       </div>
 
-      <div className="mt-8 flex flex-wrap items-center gap-x-6 gap-y-3 text-sm text-tint">
+      <div className="mt-8 flex flex-col sm:flex-row items-center gap-10 gap-x-6 gap-y-3 text-sm text-tint">
         {LINKS.map(({ key, href, icon: Icon, external, ...rest }) => {
           const label = "labelKey" in rest ? t(rest.labelKey) : rest.label;
           return external ? (

@@ -22,13 +22,19 @@ export function TechStackDialog() {
                 stack
             </DialogTrigger>
 
-
             <DialogContent
                 className="w-[calc(100vw-2rem)]! max-w-275! overflow-hidden rounded-xl border border-line bg-background p-0 shadow-2xl"
                 showCloseButton={false}
             >
-                <div className="flex h-14 items-center gap-2 border-b border-line bg-tinted px-5">
-                    <span className="h-3 w-3 rounded-full bg-[#ff5f57]" />
+                <div className="relative flex h-14 items-center gap-2 border-b border-line bg-tinted px-5">
+                    <button
+                        type="button"
+                        onClick={() => setOpen(false)}
+                        aria-label="close"
+                        className="group flex h-3 w-3 items-center justify-center rounded-full bg-[#ff5f57] cursor-pointer"
+                    >
+                        <span className="hidden text-[8px] leading-none text-[#4d0000] group-hover:block">×</span>
+                    </button>
                     <span className="h-3 w-3 rounded-full bg-[#febc2e]" />
                     <span className="h-3 w-3 rounded-full bg-[#28c840]" />
 
@@ -37,7 +43,7 @@ export function TechStackDialog() {
                     </span>
                 </div>
 
-                <div className="max-h-[80vh] overflow-y-auto px-6 py-7 sm:px-8 sm:py-8">
+                <div className="max-h-[80vh] overflow-y-auto px-4 py-6 sm:px-8 sm:py-8">
                     <TechStackTerminal />
                 </div>
             </DialogContent>

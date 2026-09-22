@@ -29,7 +29,7 @@ const SOCIALS = [
 export function Footer() {
     return (
         <footer className="mx-auto max-w-3xl px-4 py-10">
-            <div className="flex w-full flex-wrap items-center justify-center gap-x-8 gap-y-3 border-t border-tinted/60 pt-6">
+            <div className="flex w-full flex-col sm:flex-row items-center justify-center gap-x-8 gap-y-3 border-t border-tinted/60 pt-6">
                 {SOCIALS.map(({ key, label, href, icon: Icon }) => (
                     <a
                         key={key}
@@ -48,8 +48,8 @@ export function Footer() {
                 <Image
                     src="/logo-d.png"
                     alt="Denis Beccev"
-                    width={42}
-                    height={42}
+                    width={40}
+                    height={40}
                     className="opacity-60  hover:opacity-100 hover:scale-105 transition-all"
                 />
             </div>
