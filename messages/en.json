@@ -47,7 +47,11 @@
 		},
 		"early-projects": {
 			"description": "Collection of early learning projects.",
-			"content": "A collection of my early projects built while learning web development. These are small apps and exercises covering different concepts and technologies, made as part of the learning process before moving on to larger full-stack builds."
+			"content": "A collection of my early projects created while learning web development. These are small applications and exercises covering various concepts and technologies, created as part of my learning process before moving on to larger full-stack projects."
+		},
+		"luxary-cafe": {
+			"description": "Mini full-stack project built with Docker and MySQL.",
+			"content": "A mini full-stack project created as a recreation of an existing real-world website. The project uses Docker and MySQL and was developed for educational and portfolio purposes to practice building a website based on an existing design and functionality."
 		}
 	},
 

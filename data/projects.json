@@ -64,6 +64,24 @@
 		"content": ""
 	},
 	{
+		"slug": "luxary-cafe",
+		"title": "Luxary Cafe Clone",
+		"stack": ["PHP", "Docker", "MySQL", "Alpine.js", "Tailwind", "Git"],
+		"cover": "/projects/luxary-cafe/cover-luxary-coffee.jpg",
+		"screenshots": [
+			"/projects/luxary-cafe/cover-luxary-coffee.jpg",
+			"/projects/luxary-cafe/luxary-coffee-2.jpg",
+			"/projects/luxary-cafe/luxary-coffee-3.jpg",
+			"/projects/luxary-cafe/luxary-coffee-4.jpg",
+			"/projects/luxary-cafe/luxary-coffee-5.jpg",
+			"/projects/luxary-cafe/luxary-coffee-6.jpg"
+		],
+		"youtubeUrl": null,
+		"demoUrl": null,
+		"githubUrl": "https://github.com/denoqcore/surv-gear",
+		"content": ""
+	},
+	{
 		"slug": "early-projects",
 		"title": "Learning Projects",
 		"stack": [
