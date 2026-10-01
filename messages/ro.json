@@ -48,6 +48,10 @@
 		"early-projects": {
 			"description": "Colecție de proiecte timpurii de învățare.",
 			"content": "O colecție a primelor mele proiecte realizate în procesul de învățare a dezvoltării web. Sunt aplicații mici și exerciții pe diverse concepte și tehnologii, făcute ca parte a procesului de învățare înainte de a trece la proiecte full-stack mai mari."
+		},
+		"luxary-cafe": {
+			"description": "Un mic proiect full-stack realizat cu Docker și MySQL.",
+			"content": "Un mic proiect full-stack creat ca o replică a unui site real existent. Proiectul folosește Docker și MySQL și a fost dezvoltat în scop educațional și pentru portofoliu, pentru a dobândi experiență practică în crearea unui site pe baza unui design și a unei funcționalități existente."
 		}
 	},
 

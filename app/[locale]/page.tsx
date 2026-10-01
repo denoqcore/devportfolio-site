@@ -20,7 +20,7 @@ const LINKS = [
 
 const DOCS = [
   { key: "diploma", label: "diploma", href: "/diploma", icon: CertificateIcon, external: false },
-  { key: "cv", label: "cv", href: "CV/Beccev_Denis_CV.pdf", icon: FileTextIcon, external: true },
+  { key: "cv", label: "cv", href: "CV/Beccev_Denis_CVIT.pdf", icon: FileTextIcon, external: true },
 ] as const;
 
 
