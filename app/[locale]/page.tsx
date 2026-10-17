@@ -15,7 +15,7 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 const LINKS = [
   { key: "content", labelKey: "content", href: "/projects", icon: BookIcon, external: false },
   { key: "github", label: "denoqcore", href: "https://github.com/denoqcore", icon: GithubLogoIcon, external: true },
-  { key: "telegram", label: "@markwellxd", href: "https://t.me/markwellq", icon: TelegramLogoIcon, external: true },
+  { key: "telegram", label: "@markwellxd", href: "https://t.me/markwellxd", icon: TelegramLogoIcon, external: true },
 ] as const;
 
 const DOCS = [
